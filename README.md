@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently studying Bachelor of IT and MERN fullstack bootcamp in dented code
+Currently studying Bachelor of IT in Victoria University and MERN fullstack bootcamp in dented code
 
 
 ## 🌐 Socials:
