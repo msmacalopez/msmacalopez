@@ -3,8 +3,8 @@ Currently studying Bachelor of IT in Victoria University and MERN fullstack boot
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/msmacarenalopez) 
-[![Click Me](https://img.shields.io/badge/🌐_Visit_My_Portfolio-1E90FF?style=for-the-badge)](https://personal-portfolio-six.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn_Profile-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/msmacarenalopez)
+[![Visit My Portfolio](https://img.shields.io/badge/🌐_Visit_My_Portfolio-1E90FF?style=flat-square)](https://personal-portfolio-six.vercel.app/)
 
 # 💻 Tech Stack:
 ### 🧠 Frontend
