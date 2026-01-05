@@ -42,6 +42,7 @@ Currently studying Bachelor of IT in Victoria University and MERN fullstack boot
 ### 🎨 Design & Collaboration
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+![ClickUp](https://img.shields.io/badge/ClickUp-%237B68EE.svg?style=for-the-badge&logo=clickup&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=msmacalopez&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
